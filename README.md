@@ -1,4 +1,5 @@
 #include<graphics.h>
+#include<math.h>
 #include<conio.h>
 main()
 {
